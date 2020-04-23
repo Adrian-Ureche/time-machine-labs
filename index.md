@@ -12,7 +12,7 @@ Good luck!
 
 1.  [Git - working with git](lab_1/working-with-git.md) [ 1 lab ]
 2.  [Python language and some OOP](lab_2/how-to-run-jupyter.md) [ 2 labs ]
-3.  Python REPL, packages, virtual environments and poetry [ 1 lab ]
+3.  [Python REPL, packages, virtual environments and poetry](lab_4/repl-packages-venv-poetry.md) [ 1 lab ]
 4.  Build a CLI app with click and use requests [ 2 labs ]
 5.  Creating a REST API client with flask for Time Machine [ 1 lab ]
 6.  Time Machine server code and automated tests [ 3 labs ]
